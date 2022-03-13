@@ -1,9 +1,12 @@
 #include <stdio.h>
-/*
- * * main - Entry point
- * result: Always 0 (success)
+
+/**
+ * main - Entry point
+ * none
+ * return: Always 0 (success)
  */
-int main(void)
+
+void main(void)
 {
 	char a;
 
