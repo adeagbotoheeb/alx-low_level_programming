@@ -3,9 +3,11 @@
 /**
  * main - Entry point
  *
- * Result: Always (Success)
+ * Return: Always 0 (Success)
  */
-void main(void)
+
+int main(void)
+
 {
 	char a = 'a';
 	char A = 'A';
@@ -22,7 +24,7 @@ void main(void)
 		A++;
 	}
 
-		putchar('\n');
+	putchar('\n');
 
 	return (0);
 }
