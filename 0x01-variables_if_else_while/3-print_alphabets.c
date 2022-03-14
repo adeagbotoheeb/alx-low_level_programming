@@ -3,8 +3,7 @@
 /**
  * main - Entry point
  *
- * Result: Always 0 (success)
- *
+ * Result: Always (Success)
  */
 void main(void)
 {
@@ -23,7 +22,7 @@ void main(void)
 		A++;
 	}
 
-	putchar('\n');
+		putchar('\n');
 
 	return (0);
 }
